@@ -82,3 +82,4 @@ app_constant.dart
 firebase_options.dart
 
 google-services.json
+android/app/google-services.json
